@@ -44,7 +44,7 @@ The antenna is designed using CST Studio Suite and operates at a resonant freque
 ![Radiation](radiation.jpeg)
 
 ## Fabricated Antenna
-![Fabrication](Fabricated view.jpeg)
+![Fabrication](Fabricated.jpeg)
 
 ## Author
 Harsh Maurya

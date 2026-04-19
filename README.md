@@ -35,17 +35,16 @@ The antenna is designed using CST Studio Suite and operates at a resonant freque
 - Wireless Communication Systems
 
 ## Antenna Design
-![Geometry](Geometry.png)
+![Geometry](Simulation Microstrip.jpeg)
 
 ## S11 Plot
-![S11](S11.png)
+![S11](S11.jpeg)
 
 ## Radiation Pattern
-![Radiation](Radiation.png)
+![Radiation](Radiation Pattern.jpeg)
 
 ## Fabricated Antenna
-![Fabrication](Fabrication.png)
----
+![Fabrication](Fabricated view.jpeg)
 
 ## Author
 Harsh Maurya

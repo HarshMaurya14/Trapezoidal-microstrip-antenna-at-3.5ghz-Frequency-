@@ -46,5 +46,24 @@ The antenna is designed using CST Studio Suite and operates at a resonant freque
 ## Fabricated Antenna
 ![Fabrication](fabricated.jpeg)
 
+## Design Explanation
+
+The antenna is designed using the transmission line model.
+
+The width and length of the patch are calculated based on the resonant frequency of 3.5 GHz and substrate properties.
+
+A trapezoidal ring structure is used instead of a rectangular patch to improve impedance matching and radiation characteristics.
+
+The antenna is fed using a 50 Ω microstrip line for proper matching.
+
+---
+
+## Key Observations
+
+- The antenna resonates at 3.492 GHz, which lies within the 5G band (3.4–3.6 GHz)
+- Return loss is below -10 dB, indicating acceptable matching
+- VSWR is close to 1.6, which is within acceptable range
+- Radiation pattern is broadside, typical for microstrip antennas
+
 ## Author
 Harsh Maurya

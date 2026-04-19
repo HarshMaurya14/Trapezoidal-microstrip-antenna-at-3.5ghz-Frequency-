@@ -34,6 +34,17 @@ The antenna is designed using CST Studio Suite and operates at a resonant freque
 - IoT Devices
 - Wireless Communication Systems
 
+## Antenna Design
+![Geometry](Geometry.png)
+
+## S11 Plot
+![S11](S11.png)
+
+## Radiation Pattern
+![Radiation](Radiation.png)
+
+## Fabricated Antenna
+![Fabrication](Fabrication.png)
 ---
 
 ## Author
